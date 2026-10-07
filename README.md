@@ -1,10 +1,6 @@
 # Clean Python Code
 
-- This is a project by luxdev Hq student.
-
 ## Table of Contents
-
-![Uncle Bob surrounded with computers](assets/Robert_C._Martin_surrounded_by_computers.jpg)
 
 1. [Introduction](#introduction)
 
@@ -5208,33 +5204,4 @@ documentation; the prose is for the rules a reader cannot infer.
 
 ---
 
-This guide is a Python adaptation of Robert C. Martin's *Clean Code*, produced by
-[LuxDev HQ](https://github.com/LuxDevHQ) students and contributors.
-
-The same material exists for other languages, and the principles carry over even where the idioms do not:
-
-- **JavaScript** — [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-- **Python** — [clean-code-python](https://github.com/zedr/clean-code-python)
-- **TypeScript** — [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
-- **PHP** — [clean-code-php](https://github.com/jupeter/clean-code-php)
-- **Ruby** — [clean-code-ruby](https://github.com/uohzxela/clean-code-ruby)
-- **Go** — [clean-go-article](https://github.com/Pungyeon/clean-go-article)
-
-### Translations of this guide
-
-Translations into other natural languages are welcome. If you would like to translate these notes:
-
-1. Fork the repository.
-2. Copy `README.md` to `README.<language-code>.md` (for example `README.sw.md` for Kiswahili).
-3. Translate the prose. **Leave the code identifiers in English** — code in the wild is written in English,
-   and a reader who learns `pesa_taslimu` here will not recognise `cash` in a real codebase.
-4. Add your language to the list below and open a pull request.
-
-| Language | Link | Status |
-| --- | --- | --- |
-| English | [README.md](README.md) | Complete |
-
-Contributions of any size are welcome — a fixed typo, a clearer example, or a whole chapter. Add yourself to
-`authors.json` when you open your first pull request.
-
-**[⬆ back to top](#table-of-contents)**
+This guide is a Python adaptation of Robert C. Martin's *Clean Code*.
